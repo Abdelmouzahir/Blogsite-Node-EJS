@@ -14,7 +14,10 @@ Clone the repository:
 bash
 Copy code
 git clone[ https://github.com/your-username/blog-site.git](https://github.com/Abdelmouzahir/Blogsite-Node-EJS)
+visit the blog: https://blog-tubj.onrender.com/
+to compose new article : https://blog-tubj.onrender.com/compose
 
+last update: I added a mongoDB server with using mongoose and mongoDb Atlas server.
 
 Usage
 Browse the blog posts on the homepage.
@@ -26,4 +29,5 @@ EJS (Embedded JavaScript)
 HTML
 CSS
 JavaScript
+mongoDB
 Feel free to customize and enhance the site according to your specific requirements and design preferences. Happy blogging!
